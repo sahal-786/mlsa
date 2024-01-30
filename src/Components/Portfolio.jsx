@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/IMG_2836.JPG";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "sahal pic";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Zelt Animation website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Animated Website Using React Js and Framer Motion.",
+    url: "https://sahal-786.github.io/Zelt-website-landing-page/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Amazaone Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Create website html css and javascript.",
+    url: "https://sahal-786.github.io/Amazone-landing-page/",
   },
   {
-    title: "My Resume Site",
+    title: "Chat app",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created caht app using flutter and firebase.",
+    url: "https://github.com/sahal-786/flutter-chat-app-main",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Spotify Clone",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Create spotify landing page using html css and javascript.",
+    url: "https://sahal-786.github.io/Spotify-landing-page/",
   },
 ];
 

@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/DSC_3955.JPG";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am undergraduate student of computer science. i am a web developer and i am also a flutter developer. i am also a graphic designer. i am also a UI/UX designer.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "This is my Portflio website. I have created this website using React Js. i am a web developer and i am also a flutter developer.";
 
 const About = () => {
   return (
